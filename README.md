@@ -1,4 +1,4 @@
-# 📌 Paper Prototype & Wireframe Exercise
+# 📌Going-on-holidays: Paper Prototype & Wireframe Exercise
 
 ## 🚀 Overview
 This exercise involves creating a **paper prototype** (low-fidelity) and **wireframe** (mid-fidelity) for our traveler solution. The goal is to visualize the user flow and refine it based on usability testing.
